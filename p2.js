@@ -16,3 +16,5 @@ while(result < 4000000) {
 }
 
 console.log(sum);
+
+//4613732
